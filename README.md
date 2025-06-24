@@ -7,7 +7,7 @@ This is a real-time face mask detection system built using deep learning and com
 - ⚠️ Improperly Worn Mask
 - ❌ No Mask
 
-This project was developed by **Dharaneesh .V** during the internship program *“Advanced Applications of AI and Machine Learning”* conducted from **May 15 to June 15, 2025**.
+
 
 ---
 
